@@ -1,0 +1,37 @@
+@media (max-width: 768px){
+
+.container {
+    width: 90%;
+}
+.product-title {
+    font-size: 30px;
+}
+
+}
+
+@media (max-width: 360px) {
+    .container {
+        width: 90%;
+    }
+    .header-logo {
+        font-size: 28px;
+    }
+    .product-title {
+
+    }
+    .bottom-left select {
+        width: 100px;
+
+
+    }
+
+}
+@media (max-width: 390px){
+    .container{
+        width: 78%;
+    }
+    .bottom-left select {
+        width: 100px;
+
+    }
+}
